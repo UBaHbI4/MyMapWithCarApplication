@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="progress_colors">
+        <item>@color/light_gray</item>
+        <item>@color/blue</item>
+        <item>@color/red</item>
+    </integer-array>
+    <string-array name="item_actions">
+        <item>@string/context_menu_show_in_map</item>
+        <item>@string/context_menu_edit</item>
+        <item>@string/context_menu_delete</item>
+    </string-array>
+</resources>

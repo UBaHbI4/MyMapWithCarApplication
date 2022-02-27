@@ -1,0 +1,31 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="map_image_size">120dp</dimen>
+    <dimen name="need_permission_text_size">22sp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="fragment_edit_image_size">60dp</dimen>
+    <dimen name="fragment_edit_title_text_size">24sp</dimen>
+    <dimen name="fragment_edit_title_layout_margin_top">70dp</dimen>
+    <dimen name="fragment_edit_btn_margin_vertical">48dp</dimen>
+    <dimen name="marker_edit_height">80dp</dimen>
+    <dimen name="marker_edit_margin_vertical">1dp</dimen>
+    <dimen name="marker_edit_padding">2dp</dimen>
+    <dimen name="marker_edit_card_elevation">1dp</dimen>
+    <dimen name="marker_edit_image_size">40dp</dimen>
+    <dimen name="marker_edit_coordinate_margin">8dp</dimen>
+    <dimen name="marker_edit_coordinate_text_size">12sp</dimen>
+    <dimen name="marker_item_description_text_size">10sp</dimen>
+    <dimen name="marker_item_margin_vertical">8dp</dimen>
+    <dimen name="marker_item_title_text_size">12sp</dimen>
+    <dimen name="fragment_map_btn_text_size">8sp</dimen>
+    <dimen name="fragment_map_btn_radius">5dp</dimen>
+    <dimen name="fragment_map_help_text_size">10sp</dimen>
+    <dimen name="fragment_map_help_margin_vertical">8dp</dimen>
+    <item name="marker_item_coordinate_height_percent" format="float" type="dimen">0.4</item>
+    <item name="marker_item_description_height_percent" format="float" type="dimen">0.3</item>
+    <item name="marker_item_text_max_line" format="integer" type="dimen">2</item>
+    <item name="fragment_edit_percent_width" format="float" type="dimen">0.44</item>
+</resources>

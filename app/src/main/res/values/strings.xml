@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyMapApplication</string>
+    <string name="title_map">Карта</string>
+    <string name="title_markers">Маркеры</string>
+    <string name="title_settings">Настройки</string>
+    <string name="need_permission_text">Для работы необходим доступ к данным местоположения</string>
+    <string name="get_permission_text">Получить разрешение</string>
+    <string name="context_menu_show_in_map">Показать на карте</string>
+    <string name="context_menu_edit">Изменить</string>
+    <string name="context_menu_delete">Удалить</string>
+    <string name="editing">Редактирование</string>
+    <string name="title">Заголовок</string>
+    <string name="description">Описание</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="help"><b><font color='#FF0000'>Долгий клик по карте:</font></b> установить в данной позиции финишную точку
+        \n<b><font color='#FF0000'>Клик по машинке:</font></b> запустить машинку
+        \n<b><font color='#FF0000'>Клик по кнопке:</font></b> движение машинки из угла в угол согласно заданию</string>
+    <string name="set_car">Установить\nмашинку</string>
+</resources>
