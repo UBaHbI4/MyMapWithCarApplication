@@ -10,7 +10,7 @@
 
 
 ---
-<video src="screenshots/trailer.mp4"></video><img src="screenshots/1.png" width="230" height="384" />
+<video src="https://github.com/UBaHbI4/MyMapWithCarApplication/blob/master/screenshots/trailer.mp4"></video><img src="screenshots/1.png" width="230" height="384" />
 <img src="screenshots/2.png" width="230" height="384" /><img src="screenshots/3.png" width="230" height="384" />
 <img src="screenshots/4.png" width="230" height="384" /><img src="screenshots/5.png" width="230" height="384" />
 <img src="screenshots/6.png" width="230" height="384" />
